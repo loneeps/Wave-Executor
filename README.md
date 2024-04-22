@@ -10,9 +10,9 @@
 
 🔏 Attaching tutorial 🔏: 
 
-1) Open roblox from browser or microsoft store..
-2) Join a game (Any game)
-3) Attach from the button bottom left
-4) Paste / Search your script.
-
+- Run roblox from browser or microsoft store..
+- Join a game (Any game)
+- Attach from the button bottom left
+- Paste / Search your script.‎
+‎ 
 5) Have fun!😁
