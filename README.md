@@ -2,7 +2,11 @@
 
 This is a custom special coded executor that bypasses roblox byfron.
 
-# @sad
+# Optional
+
+If you didnt find any scripts that you wanted to your game, click on the top left a button called "Scripts" and search your game there.
+Once you find the script click copy, after you clicked it, it will say "Copied".
+Go to the original window and paste the script there.
 
 # Instrcutions
 
