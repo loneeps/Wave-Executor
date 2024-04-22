@@ -1,14 +1,8 @@
 # Wave Executor
 
-⭐ Welcome to wave executor ⭐
+This is a custom special coded executor that bypasses roblox byfron.
 
-🏈 This is a regular executor for roblox for free keyless! 🏈
-
-💀 Bypasses Roblox Byfron💀
-
-
-
-🔏 Attaching tutorial 🔏: 
+# Instrcutions
 
 1) Open roblox from browser or microsoft store..
 2) Join a game (Any game)
