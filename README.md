@@ -1,4 +1,4 @@
-# Wave Executor
+# Welcome to wave Executor
 
 ⭐ Welcome to wave executor ⭐
 
